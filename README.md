@@ -59,6 +59,7 @@ I'm a data analyst with a BS in Software Engineering from Sarhad University of S
     </td>
     <td width="33%" valign="top">
       <h4>🏦 Geldium Delinquency EDA</h4>
+      <a href="https://github.com/Umair39-lab/Delinquency_Prediction>
       Exploratory analysis of 500 customers, with data fixes and risk indicators before modelling.<br><br>
       <sub>Python · pandas</sub>
     </td>
